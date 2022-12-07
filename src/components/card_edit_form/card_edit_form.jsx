@@ -10,7 +10,6 @@ const CardEditForm = ({ FileInput, card, updateCard, deleteCard }) => {
   };
 
   const onFileChange = (file) => {
-    console.log(file);
     updateCard({
       ...card,
       fileName: file.name,
