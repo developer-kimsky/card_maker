@@ -1,6 +1,6 @@
 <h1>Card Maker</h1>
 <h3>Link</h3>
-<p>https://github.com/developer-kimsky/card_maker/</p>
+<p>https://developer-kimsky.github.io/card_maker/</p>
 
 <h3>Tech Stack</h3>
 <div style=="display:flex;">
