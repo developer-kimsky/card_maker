@@ -6,7 +6,7 @@ import styles from "./app.module.css";
 function App({ FileInput, authService, cardRepository }) {
   return (
     <div className={styles.app}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" exact element={<Login authService={authService} />} />
           <Route
