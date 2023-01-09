@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://github.com/developer-kimsky/card_maker/static/css/main.cbcd72fd.css",
-    "main.js": "https://github.com/developer-kimsky/card_maker/static/js/main.5cc38efe.js",
+    "main.js": "https://github.com/developer-kimsky/card_maker/static/js/main.82c8f495.js",
     "index.html": "https://github.com/developer-kimsky/card_maker/index.html",
     "main.cbcd72fd.css.map": "https://github.com/developer-kimsky/card_maker/static/css/main.cbcd72fd.css.map",
-    "main.5cc38efe.js.map": "https://github.com/developer-kimsky/card_maker/static/js/main.5cc38efe.js.map"
+    "main.82c8f495.js.map": "https://github.com/developer-kimsky/card_maker/static/js/main.82c8f495.js.map"
   },
   "entrypoints": [
     "static/css/main.cbcd72fd.css",
-    "static/js/main.5cc38efe.js"
+    "static/js/main.82c8f495.js"
   ]
 }
